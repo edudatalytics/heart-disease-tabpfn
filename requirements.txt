@@ -1,0 +1,6 @@
+.env
+teste_tabpfn.py
+model.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
